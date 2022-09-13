@@ -7,7 +7,7 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FRONT-END+DEVELOPER;DESIGNER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FRONT-END+DEVELOPER;DESIGNER&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)](https://git.io/typing-svg)
 
 
 ### Hi there! Welcome to my GitHub profile. :milky_way: 
