@@ -4,6 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ceeshar&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeshar&hide=javascript,css,scss,html&theme=tokyonight)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeshar)
 
 #### Contact Me
