@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeshar&hide=javascript,css,scss,html&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeshar)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeshar)
 
 #### Contact Me
