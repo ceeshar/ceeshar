@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to Ibrahim Uzum's Profile!
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" width="28">
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" width="70%">
   
 </h3>
 
