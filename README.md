@@ -1,12 +1,8 @@
 <h3 align="center">
   <!-- gif section-->
   <p> <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" width="25%"> </p>
-  
-  <strong> Welcome to Ibrahim Uzum's Profile! </strong>
-  
-  
+  Welcome to Ibrahim Uzum's Profile! 
 </h3>
-
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
