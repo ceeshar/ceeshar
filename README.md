@@ -1,3 +1,10 @@
+<h3 align="center">
+  Welcome to Ibrahim Uzum's Profile!
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" width="28">
+  
+</h3>
+
+
 ### Hi there! Welcome to my GitHub profile. :milky_way: 
 
 #### I'm currently working on the basics of coding and web development.
