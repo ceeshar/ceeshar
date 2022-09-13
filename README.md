@@ -9,7 +9,7 @@
 <p align="center">
   
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=FRONT-END+DEVELOPER;DESIGNER&font=Lato%20Code&center=true&width=440&height=45&color=89D8FF&size=22&pause=1000)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=FRONT-END+DEVELOPER;DESIGNER&font=Lato&center=true&width=440&height=45&color=89D8FF&size=22&pause=1000)](https://git.io/typing-svg">
 </p>
 
 
